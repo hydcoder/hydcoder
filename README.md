@@ -1,4 +1,19 @@
-### Hi there 👋
+### Hi there! I am hydCoder! 👋
+
+一名坐标长沙的Android开发，Kotlin和Flutter均有涉猎，关注大前端！
+
+| 简书                                               | CSDN                                            | 掘金                                               |
+| -------------------------------------------------- | ----------------------------------------------- | -------------------------------------------------- |
+| [点击直达](https://www.jianshu.com/u/c1a1f28fcb30) | [点击直达](https://mp.csdn.net/console/article) | [点击直达](https://juejin.im/user/782508007631911) |
+
+#### Github State
+
+```json
+[![HydCoder's github stats](https://github-readme-stats.vercel.app/api?username=hydCoder)](https://github.com/anuraghazra/github-readme-stats)
+```
+
+
+
 
 <!--
 **hydcoder/hydcoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
