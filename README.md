@@ -9,7 +9,7 @@
 #### Github State
 
 ```json
-[![HydCoder's github stats](https://github-readme-stats.vercel.app/api?username=hydCoder)](https://github.com/anuraghazra/github-readme-stats)
+[![hydcoder's github stats](https://github-readme-stats.vercel.app/api?username=hydcoder)](https://github.com/hydcoder/github-readme-stats)
 ```
 
 
