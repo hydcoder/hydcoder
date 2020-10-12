@@ -8,9 +8,7 @@
 
 #### Github State
 
-```json
-[![hydcoder's github stats](https://github-readme-stats.vercel.app/api?username=hydcoder)](https://github.com/hydcoder/github-readme-stats)
-```
+![hydCoder's github stats](https://github-readme-stats.vercel.app/api?username=hydcoder&show_icons=true&theme=radical)
 
 
 
